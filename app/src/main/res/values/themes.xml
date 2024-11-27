@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TPA_REGISTRO" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--- Colores Primarios-->
+        <item name="colorPrimary">@color/cian</item>
+        <item name="colorPrimaryVariant">@color/cian</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!--- Colores Secundarios-->
+        <item name="colorSecondary">@color/accent_cian</item>
+        <item name="colorSecondaryVariant">@color/accent_cian</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!--- Colores Barra de estatus-->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

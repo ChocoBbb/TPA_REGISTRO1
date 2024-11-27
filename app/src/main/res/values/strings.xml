@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TPA_REGISTRO</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+</resources>
